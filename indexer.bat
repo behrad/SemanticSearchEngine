@@ -1,0 +1,1 @@
+java -cp F:\projects\java\lucene-1.4.3\lucene-1.4.3.jar;F:\projects\java\lucene-1.4.3\lucene-demos-1.4.3.jar org.apache.lucene.demo.IndexHTML -create -index index ..
